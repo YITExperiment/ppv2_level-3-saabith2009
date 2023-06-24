@@ -1,5 +1,4 @@
-#KABEER_SAABITH_OFFICIAL 
-import turtle as t
+import turtle as t 
 
 def rectangle(horizontal,vertical,color):
     t.pendown()

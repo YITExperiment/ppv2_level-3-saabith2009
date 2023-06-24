@@ -1,4 +1,3 @@
-#KABEER_SAABITH_OFFICIAL
 import turtle
 
 from itertools import cycle
@@ -17,3 +16,5 @@ turtle.bgcolor('black')
 turtle.speed('fast')
 turtle.pensize(40)
 draw_circle(30,0,1)
+
+
